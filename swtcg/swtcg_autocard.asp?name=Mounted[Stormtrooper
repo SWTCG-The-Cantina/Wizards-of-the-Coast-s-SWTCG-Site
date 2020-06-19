@@ -1,0 +1,57 @@
+
+
+<link rel="STYLESHEET" type="text/css" href="/global/default.css">
+<link rel="STYLESHEET" type="text/css" href="/swtcg/swtcg.css">
+
+
+<html>
+<head>
+	<title>Mounted Stormtrooper</title>
+</head>
+<!--<body bgcolor="white" marginheight="5" marginwidth="5" topmargin="5" leftmargin="5">-->
+
+	
+<body bgcolor="white" marginheight="5" marginwidth="5" topmargin="5" leftmargin="5" onLoad="resizeTo(330,600); self.focus();"><form method="get" name="find">
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr><td valign="top"><a href="#" onclick="javascript:window.close()"><img src="/swtcg/images/anh/mounted_stormtrooper.jpg" alt="Mounted Stormtrooper" border="0" width="205" height="285"></a></td></tr><tr><td><div align="center" class="small">Set: A New Hope</div><br/></td></tr>
+</table>
+
+<table><tr>
+<td valign="top" align="center"><br/>
+<a href="/default.asp?x=mtgcom" target="_blank"><img src="/swtcg/images/swtcg/swtcglogo.jpg" border="0"/></a>
+<table cellpadding="0" cellspacing="2" width="100%">
+<tr><td valign="top"><img src="/images/bullets/dnd_red_2.gif"></td><td><a class="aclinks" target="_blank" href="/default.asp?x=swtcg/article/decks33">Enter the Bureaucrat</a></td></tr>
+<tr><td valign="top"><img src="/images/bullets/dnd_red_2.gif"></td><td><a class="aclinks" target="_blank" href="/default.asp?x=swtcg/article/featurePadawan1">Learning the Force: from a padawan's perspective</a></td></tr>
+<tr><td valign="top"><img src="/images/bullets/dnd_red_2.gif"></td><td><a class="aclinks" target="_blank" href="/default.asp?x=swtcg/article/decks32">What Goes Up…</a></td></tr>
+<tr><td colspan="2" align="right"><a href="/default.asp?x=swtcg/fullarchive" target="_blank" class="morelink">ARCHIVE</a>  </td></tr>
+</table>
+
+</td></tr>
+<tr><td valign="top">
+<!--<hr size="1"/>-->
+<div class="reallysmall">Search For Card: <input type="text" name="name" size="15" maxlength="50"/>&#160;<a href="javascript:self.document.find.submit();"><img border="0" src="/global/images/welcome_go.gif"></a></div>
+
+</td>
+</tr>
+
+<tr><td colspan="3" align="center">
+<br/><br/>
+<hr size="1"/>
+<a class="reallysmall" href="http://www.wizards.com/company/WebSiteLegalNotice.asp" target="_blank">&#169; 1995-2003 Wizards of the Coast, Inc., a subsidiary of Hasbro, Inc.<br/>All Rights Reserved.<br/>
+Wizards is headquartered in Renton, Washington, PO Box 707, Renton, WA 98057.</a></td></tr>
+</table>
+</form>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
